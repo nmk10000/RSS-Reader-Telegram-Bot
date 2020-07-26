@@ -25,11 +25,11 @@ class DB(object):
     """This object represents DB configurations"""
 
     # Change Information or add other information.
-    NAME = 'bot_db'
-    HOST = '127.0.0.1'
+    NAME = 'nmk1000'
+    HOST = 'nmknmknmk.mysql.pythonanywhere-services.com'
     PORT = 3306
-    USER = 'root'
-    PASSWORD = 'secret-pass'
+    USER = 'nmknmknmk'
+    PASSWORD = 'nmk1000'
 
     # The table which the clients data will be stored.
     CLIENTS_TABLE = 'clients'
